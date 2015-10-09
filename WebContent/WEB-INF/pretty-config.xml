@@ -1,0 +1,15 @@
+<?xml version="1.0"?>   
+                    
+
+ <pretty-config
+	xmlns="http://ocpsoft.com/prettyfaces-xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://ocpsoft.com/prettyfaces-xsd 
+	http://ocpsoft.com/xml/ns/prettyfaces/pretty-1.0.xsd">
+	
+	<!-- <url-mapping id="task1">
+		<pattern value="/IQTaskProject" />
+		<view-id value="/IQTaskProject/faces/task1.xhtml" />
+	</url-mapping>-->
+	
+	</pretty-config>
