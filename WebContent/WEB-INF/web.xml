@@ -21,7 +21,15 @@
 		<servlet-name>Faces Servlet</servlet-name>
 		<url-pattern>/faces/*</url-pattern>
 	</servlet-mapping>
-
+ <servlet>
+  	<servlet-name>test</servlet-name>
+  	<servlet-class>com.task.saveUrl</servlet-class>
+  	<load-on-startup>2</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>test</servlet-name>
+  	<url-pattern>/saveUrl</url-pattern>
+  </servlet-mapping>
 
 
 
